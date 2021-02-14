@@ -1,7 +1,6 @@
 
 const request = require("request");
 const cheerio = require("cheerio");
-const http = require('http');
 const { writeFileSync } = require('fs');
 
 var url = `http://ytms.netlify.app`;
@@ -19,37 +18,9 @@ request(url, async function (err, res, html) {
         });
         writeFileSync('./html.txt', text, async function (err) {
             if (!err) {
-                var app = http.createServer(async function (req, res) {
-                    res.writeHead(200);
-                    res.end(`<!DOCTYPE html><html lang="ko">
-                        <head>
-                            <meta charset="UTF-8">
-                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                            <title>음악들임베드</title>
-                        </head>
-                    
-                        <body>
-                            <style>
-                                body {
-                                    padding:10px;
-                                    background-color:rgb(80, 80, 80);
-                                    align-items: center;
-                                    color: white;
-                                }
-                                
-                                iframe[src*="http://www.youtube.com/embed/"] {
-                                    display:block;
-                                    margin:0px auto 10px;
-                                    border:2px solid white;
-                                }
-                            </style>
-                            <div>${text}</div>
-                        </body></html>`);
-                });
-                app.listen(25565);
-                console.log(`http://localhost:25565`);
+                return console.log('good');
             }
-
+            return console.log('bad!');
         });
     }
 });

@@ -10,9 +10,15 @@
     <body>
         <style>
             body {
-                padding:10px;
+                margin-top: 30px;
                 background-color:rgb(80, 80, 80);
                 align-items: center;
+                text-align: center;
+                color: white;
+            }
+            a,
+            a::before,
+            a::after {
                 color: white;
             }
             
@@ -22,20 +28,30 @@
                 border:2px solid white;
             }
         </style>
-        <div id="n"></div>
-        <script type="text/javascript">
-            // jquery 시작
-            $(function() {
-                // txt 파일 가져오기 (load)
-                // 읽어올문서의 파일명, 확인용 함수(완료여부)
-                $('#n').load(`./html.txt`, function(txt, status) {
-                    if (status == 'error') {
-                        $('#n').text('오류발생 (파일을 찾지 못함)');
-                    } else {
-                        $('#n').html(txt);
-                    }
+        <div class="body">
+            <div class="page">
+                <div class="1">
+                    <a href="./index.html"><p>text로 확인</p></a>
+                </div>
+                <div class="2">
+                    <a href="./index2.html"><p>임베드로 확인 (이건 동기화 해줘야지 수정한대로 보임 / 자세한건 물어보는게 최고)</p></a>
+                </div>
+            </div>
+            <div id="n"></div>
+            <script type="text/javascript">
+                // jquery 시작
+                $(function() {
+                    // txt 파일 가져오기 (load)
+                    // 읽어올문서의 파일명, 확인용 함수(완료여부)
+                    $('#n').load(`./html.txt`, function(txt, status) {
+                        if (status == 'error') {
+                            $('#n').text('오류발생 (파일을 찾지 못함)');
+                        } else {
+                            $('#n').html(txt);
+                        }
+                    });
                 });
-            });
-        </script>        
+            </script>
+        </div>
     </body>
 </html>
