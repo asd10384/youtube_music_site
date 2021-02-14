@@ -26,12 +26,6 @@
                 margin-top: 20px;
                 margin-bottom: 20px;
             }
-            
-            iframe[src*="http://www.youtube.com/embed/"] {
-                display:block;
-                margin:0px auto 10px;
-                border:2px solid white;
-            }
         </style>
         <div class="body">
             <div class="page">
@@ -43,7 +37,7 @@
                 </div>
             </div>
             <div id="n"></div>
-            <script type="text/javascript">
+            <!-- <script type="text/javascript">
                 // jquery 시작
                 $(function() {
                     // txt 파일 가져오기 (load)
@@ -56,21 +50,7 @@
                         }
                     });
                 });
-            </script>
-            <script>
-                var tag = document.createElement('script');
-                tag.src = "https://www.youtube.com/player_api";
-                var firstScriptTag = document.getElementsByTagName('script')[0];
-                firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-                var player;
-                function onYouTubePlayerAPIReady() {
-                    player = new YT.Player('ytplayer', {
-                    height: '360',
-                    width: '640',
-                    videoId: 'M7lc1UVf-VE'
-                    });
-                }
-            </script>
+            </script> -->
         </div>
     </body>
 </html>
