@@ -1,59 +1,33 @@
 <!DOCTYPE html>
-<html lang="ko">
+    <html lang="ko">
     <head>
+        <link rel="stylesheet" href="./style.css">
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>음악들임베드</title>
-        <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+        <title>음악들 (추가예정)</title>
     </head>
 
     <body>
-        <style>
-            body {
-                margin-top: 30px;
-                background-color:rgb(80, 80, 80);
-                align-items: center;
-                text-align: center;
-                color: white;
-            }
-            a,
-            a::before,
-            a::after {
-                color: white;
-            }
-            #text {
-                font-size: 30px;
-                margin-top: 20px;
-                margin-bottom: 20px;
-            }
-            #err {
-                font-size: 40px;
-            }
-        </style>
-        <div class="body">
-            <div class="page">
-                <div class="1">
-                    <a href="./index.html"><p>text로 확인</p></a>
-                </div>
-                <div class="2">
-                    <a href="./index2.html"><p>임베드로 확인 (이건 동기화 해줘야지 수정한대로 보임 / 자세한건 물어보는게 최고)</p></a>
-                </div>
+        <div class="page">
+            <div class="1">
+                <a href="./index.html"><p>text로 확인</p></a>
             </div>
-            <div id="n"></div>
-            <script type="text/javascript">
-                // jquery 시작
-                $(function() {
-                    // txt 파일 가져오기 (load)
-                    // 읽어올문서의 파일명, 확인용 함수(완료여부)
-                    $('#n').load(`./html.txt`, function(txt, status) {
-                        if (status == 'error') {
-                            $('#n').html(`<p id="err">오류발생 (파일을 찾지 못함)</p>`);
-                        } else {
-                            $('#n').html(txt);
-                        }
-                    });
-                });
-            </script>
+            <div class="2">
+                <a href="./index_em.html"><p>임베드로 확인 (이건 동기화 해줘야지 수정한대로 보임 / 자세한건 물어보는게 최고)</p></a>
+            </div>
+            <div class="3">
+                <a href="./index2.html"><p>아직 미정</p></a>
+            </div>
+        </div>
+        <div class="music">
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
+            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"></a></div><br />
         </div>
     </body>
 </html>
