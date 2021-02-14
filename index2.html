@@ -26,6 +26,9 @@
                 margin-top: 20px;
                 margin-bottom: 20px;
             }
+            #err {
+                font-size: 40px;
+            }
         </style>
         <div class="body">
             <div class="page">
@@ -37,20 +40,20 @@
                 </div>
             </div>
             <div id="n"></div>
-            <!-- <script type="text/javascript">
+            <script type="text/javascript">
                 // jquery 시작
                 $(function() {
                     // txt 파일 가져오기 (load)
                     // 읽어올문서의 파일명, 확인용 함수(완료여부)
                     $('#n').load(`./html.txt`, function(txt, status) {
                         if (status == 'error') {
-                            $('#n').text('오류발생 (파일을 찾지 못함)');
+                            $('#n').html(`<p id="err">오류발생 (파일을 찾지 못함)</p>`);
                         } else {
                             $('#n').html(txt);
                         }
                     });
                 });
-            </script> -->
+            </script>
         </div>
     </body>
 </html>

@@ -4,7 +4,8 @@
   "description": "디스코드 봇을 위한 유튜브 노래 사이트 입니다.",
   "main": "chack.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    ".": "node chack.js"
   },
   "repository": {
     "type": "git",
