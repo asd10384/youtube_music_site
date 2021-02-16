@@ -300,4 +300,5 @@
 <div id="m"><div id="text">아이유-좋은 날</div><div id="img"><a href='https://youtu.be/OIHlzvEKncQ'><img src='http://img.youtube.com/vi/OIHlzvEKncQ/sddefault.jpg' alt='아이유-좋은 날'></a></div>
 <div id="m"><div id="text">마마무-wind flower</div><div id="img"><a href='https://youtu.be/B09fEHm48ZI'><img src='http://img.youtube.com/vi/B09fEHm48ZI/sddefault.jpg' alt='마마무-wind flower'></a></div>
 <div id="m"><div id="text">체리필터-오리 날다</div><div id="img"><a href='https://youtu.be/FYjWDBEA76E'><img src='http://img.youtube.com/vi/FYjWDBEA76E/sddefault.jpg' alt='체리필터-오리 날다'></a></div>
+<div id="m"><div id="text">브라운아이드걸스-오아시스</div><div id="img"><a href='https://youtu.be/FMqNVRzHXXE'><img src='http://img.youtube.com/vi/FMqNVRzHXXE/sddefault.jpg' alt='브라운아이드걸스-오아시스'></a></div>
 <div id="m"><div id="text">-</div><div id="img"><a href=''><img src='http://img.youtube.com/vi//sddefault.jpg' alt='-'></a></div>
