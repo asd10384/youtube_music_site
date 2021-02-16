@@ -175,7 +175,7 @@
 <div id="m"><div id="text">싸이-gentleman</div><div id="img"><a href='https://youtu.be/Y7n5JX0zxSw'><img src='http://img.youtube.com/vi/Y7n5JX0zxSw/sddefault.jpg' alt='싸이-gentleman'></a></div>
 <div id="m"><div id="text">저스디스,키드밀리,노엘,양홍원-indigo</div><div id="img"><a href='https://youtu.be/mYHaPeUrEr8'><img src='http://img.youtube.com/vi/mYHaPeUrEr8/sddefault.jpg' alt='저스디스,키드밀리,노엘,양홍원-indigo'></a></div>
 <div id="m"><div id="text">에이치코드-꿈속에 너</div><div id="img"><a href='https://youtu.be/gJ2t3x2-rP8'><img src='http://img.youtube.com/vi/gJ2t3x2-rP8/sddefault.jpg' alt='에이치코드-꿈속에 너'></a></div>
-<div id="m"><div id="text">세븐틴-home</div><div id="img"><a href=''><img src='http://img.youtube.com/vi//sddefault.jpg' alt='세븐틴-home'></a></div>
+<div id="m"><div id="text">세븐틴-home</div><div id="img"><a href='https://youtu.be/GjDiXJV7jCU'><img src='http://img.youtube.com/vi/GjDiXJV7jCU/sddefault.jpg' alt='세븐틴-home'></a></div>
 <div id="m"><div id="text">블랙핑크-really</div><div id="img"><a href='https://youtu.be/He322O1JWgU'><img src='http://img.youtube.com/vi/He322O1JWgU/sddefault.jpg' alt='블랙핑크-really'></a></div>
 <div id="m"><div id="text">닐로-지나오다</div><div id="img"><a href='https://youtu.be/iKZw4zLcIZM'><img src='http://img.youtube.com/vi/iKZw4zLcIZM/sddefault.jpg' alt='닐로-지나오다'></a></div>
 <div id="m"><div id="text">아이유-이 지금</div><div id="img"><a href='https://youtu.be/8ykMyNHAdKk'><img src='http://img.youtube.com/vi/8ykMyNHAdKk/sddefault.jpg' alt='아이유-이 지금'></a></div>
