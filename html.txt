@@ -152,7 +152,7 @@
 <div id="m"><div id="text">수란-오늘 취하면</div><div id="img"><a href='https://youtu.be/MHmKx-QFIr4'><img src='http://img.youtube.com/vi/MHmKx-QFIr4/sddefault.jpg' alt='수란-오늘 취하면'></a></div>
 <div id="m"><div id="text">마마무-별이 빛나는 밤</div><div id="img"><a href='https://youtu.be/hRR5qDwY_go'><img src='http://img.youtube.com/vi/hRR5qDwY_go/sddefault.jpg' alt='마마무-별이 빛나는 밤'></a></div>
 <div id="m"><div id="text">환불원정대-don't touch me</div><div id="img"><a href='https://youtu.be/-1MlDyihHgU'><img src='http://img.youtube.com/vi/-1MlDyihHgU/sddefault.jpg' alt='환불원정대-don't touch me'></a></div>
-<div id="m"><div id="text">에이트-심장이 없어</div><div id="img"><a href='https://youtu.be/rXtc_C63Vas'><img src='http://img.youtube.com/vi/rXtc_C63Vas/sddefault.jpg' alt='에이트-심장이 없어'></a></div>
+<div id="m"><div id="text">에이트-심장이 없어</div><div id="img"><a href='https://youtu.be/rrZ6qcQAmDM'><img src='http://img.youtube.com/vi/rrZ6qcQAmDM/sddefault.jpg' alt='에이트-심장이 없어'></a></div>
 <div id="m"><div id="text">다비치-너에게 못했던 내 마지막 말은</div><div id="img"><a href='https://youtu.be/Jov5h_DuED4'><img src='http://img.youtube.com/vi/Jov5h_DuED4/sddefault.jpg' alt='다비치-너에게 못했던 내 마지막 말은'></a></div>
 <div id="m"><div id="text">아이유-into the i-land</div><div id="img"><a href='https://youtu.be/LKAb8oUlkLQ'><img src='http://img.youtube.com/vi/LKAb8oUlkLQ/sddefault.jpg' alt='아이유-into the i-land'></a></div>
 <div id="m"><div id="text">창모-빌었어</div><div id="img"><a href='https://youtu.be/M2qpnwmpipI'><img src='http://img.youtube.com/vi/M2qpnwmpipI/sddefault.jpg' alt='창모-빌었어'></a></div>
@@ -170,7 +170,7 @@
 <div id="m"><div id="text">어반자카파-널 사랑하지 않아</div><div id="img"><a href='https://youtu.be/fYsDi91T-SA'><img src='http://img.youtube.com/vi/fYsDi91T-SA/sddefault.jpg' alt='어반자카파-널 사랑하지 않아'></a></div>
 <div id="m"><div id="text">태연-i</div><div id="img"><a href='https://youtu.be/ShP6KqZVQtM'><img src='http://img.youtube.com/vi/ShP6KqZVQtM/sddefault.jpg' alt='태연-i'></a></div>
 <div id="m"><div id="text">헤이즈-비도 오고 그래서</div><div id="img"><a href='https://youtu.be/hGWMhVbaJNg'><img src='http://img.youtube.com/vi/hGWMhVbaJNg/sddefault.jpg' alt='헤이즈-비도 오고 그래서'></a></div>
-<div id="m"><div id="text">박완규-천년의 사랑</div><div id="img"><a href='https://youtu.be/GVRUPRSFnQI'><img src='http://img.youtube.com/vi/GVRUPRSFnQI/sddefault.jpg' alt='박완규-천년의 사랑'></a></div>
+<div id="m"><div id="text">박완규-천년의 사랑</div><div id="img"><a href='https://youtu.be/Lk0-HtJccYE'><img src='http://img.youtube.com/vi/Lk0-HtJccYE/sddefault.jpg' alt='박완규-천년의 사랑'></a></div>
 <div id="m"><div id="text">김하온-붕붕</div><div id="img"><a href='https://youtu.be/xLuwg23DmW0'><img src='http://img.youtube.com/vi/xLuwg23DmW0/sddefault.jpg' alt='김하온-붕붕'></a></div>
 <div id="m"><div id="text">싸이-gentleman</div><div id="img"><a href='https://youtu.be/Y7n5JX0zxSw'><img src='http://img.youtube.com/vi/Y7n5JX0zxSw/sddefault.jpg' alt='싸이-gentleman'></a></div>
 <div id="m"><div id="text">저스디스,키드밀리,노엘,양홍원-indigo</div><div id="img"><a href='https://youtu.be/mYHaPeUrEr8'><img src='http://img.youtube.com/vi/mYHaPeUrEr8/sddefault.jpg' alt='저스디스,키드밀리,노엘,양홍원-indigo'></a></div>
