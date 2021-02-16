@@ -1,8 +1,13 @@
+
 body {
+    margin-top: 30px;
     background-color: #353535;
     align-items: center;
     text-align: center;
 }
+a,
+a::before,
+a::after,
 .music {
     margin-top: 45px;
     margin-bottom: 45px;
