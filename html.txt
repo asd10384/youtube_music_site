@@ -188,7 +188,7 @@
 <div id="m"><div id="text">엑소-call me baby</div><div id="img"><a href='https://youtu.be/Wu8halh9DXs'><img src='http://img.youtube.com/vi/Wu8halh9DXs/sddefault.jpg' alt='엑소-call me baby'></a></div>
 <div id="m"><div id="text">성시경-거리에서</div><div id="img"><a href='https://youtu.be/wcuWIz6CI1U'><img src='http://img.youtube.com/vi/wcuWIz6CI1U/sddefault.jpg' alt='성시경-거리에서'></a></div>
 <div id="m"><div id="text">방탄소년단-not today</div><div id="img"><a href='https://youtu.be/mCtVrf2x5BQ'><img src='http://img.youtube.com/vi/mCtVrf2x5BQ/sddefault.jpg' alt='방탄소년단-not today'></a></div>
-<div id="m"><div id="text">다모임-아마두</div><div id="img"><a href='https://youtu.be/1Bv8MmIb9Mo'><img src='http://img.youtube.com/vi/1Bv8MmIb9Mo/sddefault.jpg' alt='다모임-아마두'></a></div>
+<div id="m"><div id="text">다모임-아마두</div><div id="img"><a href='https://youtu.be/jLJrCAOCLZs'><img src='http://img.youtube.com/vi/jLJrCAOCLZs/sddefault.jpg' alt='다모임-아마두'></a></div>
 <div id="m"><div id="text">오마이걸-다섯 번째 계절</div><div id="img"><a href='https://youtu.be/A4zfx4RRkVI'><img src='http://img.youtube.com/vi/A4zfx4RRkVI/sddefault.jpg' alt='오마이걸-다섯 번째 계절'></a></div>
 <div id="m"><div id="text">폴킴-초록빛</div><div id="img"><a href='https://youtu.be/GPLBLZ4GK-0'><img src='http://img.youtube.com/vi/GPLBLZ4GK-0/sddefault.jpg' alt='폴킴-초록빛'></a></div>
 <div id="m"><div id="text">에이핑크-1도 없어</div><div id="img"><a href='https://youtu.be/IefVBVqgqrc'><img src='http://img.youtube.com/vi/IefVBVqgqrc/sddefault.jpg' alt='에이핑크-1도 없어'></a></div>
