@@ -193,7 +193,6 @@
 <div id="m"><div id="text">폴킴-초록빛</div><div id="img"><a href='https://youtu.be/GPLBLZ4GK-0'><img src='http://img.youtube.com/vi/GPLBLZ4GK-0/sddefault.jpg' alt='폴킴-초록빛'></a></div>
 <div id="m"><div id="text">에이핑크-1도 없어</div><div id="img"><a href='https://youtu.be/IefVBVqgqrc'><img src='http://img.youtube.com/vi/IefVBVqgqrc/sddefault.jpg' alt='에이핑크-1도 없어'></a></div>
 <div id="m"><div id="text">로꼬-시간이 들겠지</div><div id="img"><a href='https://youtu.be/KPOBo8c1Wt8'><img src='http://img.youtube.com/vi/KPOBo8c1Wt8/sddefault.jpg' alt='로꼬-시간이 들겠지'></a></div>
-<div id="m"><div id="text">임한별-이별하러 가는 길</div><div id="img"><a href='https://youtu.be/X1-oQ4spmYY'><img src='http://img.youtube.com/vi/X1-oQ4spmYY/sddefault.jpg' alt='임한별-이별하러 가는 길'></a></div>
 <div id="m"><div id="text">장덕철-그날처럼</div><div id="img"><a href='https://youtu.be/rLVAMDLdlFQ'><img src='http://img.youtube.com/vi/rLVAMDLdlFQ/sddefault.jpg' alt='장덕철-그날처럼'></a></div>
 <div id="m"><div id="text">아이유-unlucky</div><div id="img"><a href='https://youtu.be/l5Rb1pNre40'><img src='http://img.youtube.com/vi/l5Rb1pNre40/sddefault.jpg' alt='아이유-unlucky'></a></div>
 <div id="m"><div id="text">유아-숲의 아이</div><div id="img"><a href='https://youtu.be/i_EIF7DB0bM'><img src='http://img.youtube.com/vi/i_EIF7DB0bM/sddefault.jpg' alt='유아-숲의 아이'></a></div>
@@ -379,7 +378,7 @@
 <div id="m"><div id="text">로꼬-우연히 봄</div><div id="img"><a href='https://youtu.be/sm1DrK22Chg'><img src='http://img.youtube.com/vi/sm1DrK22Chg/sddefault.jpg' alt='로꼬-우연히 봄'></a></div>
 <div id="m"><div id="text">러블리즈-destiny</div><div id="img"><a href='https://youtu.be/ywPS1kywNoA'><img src='http://img.youtube.com/vi/ywPS1kywNoA/sddefault.jpg' alt='러블리즈-destiny'></a></div>
 <div id="m"><div id="text">정승환-눈사람</div><div id="img"><a href='https://youtu.be/5USBozeR4eg'><img src='http://img.youtube.com/vi/5USBozeR4eg/sddefault.jpg' alt='정승환-눈사람'></a></div>
-<div id="m"><div id="text">엠씨더맥스-행복하지 말아요</div><div id="img"><a href='https://youtu.be/FwbEtCtz8Qk'><img src='http://img.youtube.com/vi/FwbEtCtz8Qk/sddefault.jpg' alt='엠씨더맥스-행복하지 말아요'></a></div>
+<div id="m"><div id="text">엠씨더맥스-행복하지 말아요</div><div id="img"><a href='https://youtu.be/pMEvQz6HIA0'><img src='http://img.youtube.com/vi/pMEvQz6HIA0/sddefault.jpg' alt='엠씨더맥스-행복하지 말아요'></a></div>
 <div id="m"><div id="text">헤이즈-떨어지는 낙엽까지도</div><div id="img"><a href='https://youtu.be/SzGvuiZHGOM'><img src='http://img.youtube.com/vi/SzGvuiZHGOM/sddefault.jpg' alt='헤이즈-떨어지는 낙엽까지도'></a></div>
 <div id="m"><div id="text">아이유-푸르던</div><div id="img"><a href='https://youtu.be/1MnzUWjBQog'><img src='http://img.youtube.com/vi/1MnzUWjBQog/sddefault.jpg' alt='아이유-푸르던'></a></div>
 <div id="m"><div id="text">지코-artist</div><div id="img"><a href='https://youtu.be/PS7y36Kz84Y'><img src='http://img.youtube.com/vi/PS7y36Kz84Y/sddefault.jpg' alt='지코-artist'></a></div>
