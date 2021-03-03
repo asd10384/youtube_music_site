@@ -21,7 +21,7 @@ request(url, async function (err, res, html) {
             var yturl = l.replace(chack, '').replace(/(?:&(.+))/gi, '');
             text += `<div id="m"><div id="text">${v}-${n}</div><div id="img"><a href='${l}'><img src='http://img.youtube.com/vi/${yturl}/sddefault.jpg' alt='${v}-${n}'></a></div>\n`;
         });
-        writeFileSync('./html.txt', text, async function (err) {
+        writeFileSync('./html.txt', text, function (err) {
             if (!err) {
                 return console.log('good');
             }

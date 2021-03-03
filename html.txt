@@ -210,7 +210,7 @@
 <div id="m"><div id="text">서인국,정은지-all for you</div><div id="img"><a href='https://youtu.be/s3_5FKpAxAQ'><img src='http://img.youtube.com/vi/s3_5FKpAxAQ/sddefault.jpg' alt='서인국,정은지-all for you'></a></div>
 <div id="m"><div id="text">세븐틴-울고 싶지 않아</div><div id="img"><a href='https://youtu.be/oZvRDa_metM'><img src='http://img.youtube.com/vi/oZvRDa_metM/sddefault.jpg' alt='세븐틴-울고 싶지 않아'></a></div>
 <div id="m"><div id="text">이지-응급실</div><div id="img"><a href='https://youtu.be/E-BvyQb7mWE'><img src='http://img.youtube.com/vi/E-BvyQb7mWE/sddefault.jpg' alt='이지-응급실'></a></div>
-<div id="m"><div id="text">먼데이 키즈-another day</div><div id="img"><a href='https://youtu.be/fa4CRe-981g'><img src='http://img.youtube.com/vi/fa4CRe-981g/sddefault.jpg' alt='먼데이 키즈-another day'></a></div>
+<div id="m"><div id="text">먼데이 키즈,펀치-another day</div><div id="img"><a href='https://youtu.be/fa4CRe-981g'><img src='http://img.youtube.com/vi/fa4CRe-981g/sddefault.jpg' alt='먼데이 키즈,펀치-another day'></a></div>
 <div id="m"><div id="text">씨스타-shake it</div><div id="img"><a href='https://youtu.be/9GdR-LL4J5o'><img src='http://img.youtube.com/vi/9GdR-LL4J5o/sddefault.jpg' alt='씨스타-shake it'></a></div>
 <div id="m"><div id="text">임창정-하루도 그대를 사랑하지 않은 적이 없었다</div><div id="img"><a href='https://youtu.be/JFaGRfcywHs'><img src='http://img.youtube.com/vi/JFaGRfcywHs/sddefault.jpg' alt='임창정-하루도 그대를 사랑하지 않은 적이 없었다'></a></div>
 <div id="m"><div id="text">정승환-너였다면</div><div id="img"><a href='https://youtu.be/F6ql927-RkI'><img src='http://img.youtube.com/vi/F6ql927-RkI/sddefault.jpg' alt='정승환-너였다면'></a></div>
@@ -360,7 +360,6 @@
 <div id="m"><div id="text">산이,레이나-한여름밤의 꿀</div><div id="img"><a href='https://youtu.be/FWZoL39oFlQ'><img src='http://img.youtube.com/vi/FWZoL39oFlQ/sddefault.jpg' alt='산이,레이나-한여름밤의 꿀'></a></div>
 <div id="m"><div id="text">에이오에이-심쿵해</div><div id="img"><a href='https://youtu.be/fzvmFiG2juU'><img src='http://img.youtube.com/vi/fzvmFiG2juU/sddefault.jpg' alt='에이오에이-심쿵해'></a></div>
 <div id="m"><div id="text">빅뱅-거짓말</div><div id="img"><a href='https://youtu.be/Y4RmVcKav9Q'><img src='http://img.youtube.com/vi/Y4RmVcKav9Q/sddefault.jpg' alt='빅뱅-거짓말'></a></div>
-<div id="m"><div id="text">방탄소년단-best of me</div><div id="img"><a href='https://youtu.be/iefN_3a0Rqk'><img src='http://img.youtube.com/vi/iefN_3a0Rqk/sddefault.jpg' alt='방탄소년단-best of me'></a></div>
 <div id="m"><div id="text">청하-dream of you</div><div id="img"><a href='https://youtu.be/03R1kDMMjro'><img src='http://img.youtube.com/vi/03R1kDMMjro/sddefault.jpg' alt='청하-dream of you'></a></div>
 <div id="m"><div id="text">자이언티-hello tutorial</div><div id="img"><a href='https://youtu.be/KueTXCH4Qe8'><img src='http://img.youtube.com/vi/KueTXCH4Qe8/sddefault.jpg' alt='자이언티-hello tutorial'></a></div>
 <div id="m"><div id="text">아이유-미리 메리 크리스마스</div><div id="img"><a href='https://youtu.be/w14rSMl35ro'><img src='http://img.youtube.com/vi/w14rSMl35ro/sddefault.jpg' alt='아이유-미리 메리 크리스마스'></a></div>
