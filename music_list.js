@@ -1,48 +1,48 @@
 [
     {
         "노래퀴즈": {
-            "1": [
-                {
-                    "name": "K-POP",
+            "1": {
+                "K-POP": {
+                    "url": "",
                     "complite": true
                 },
-                {
-                    "name": "J-POP",
+                "J-POP": {
+                    "url": "",
                     "complite": false
                 }
-            ],
-            "2": [
-                {
-                    "name": "test입니다.",
+            },
+            "2": {
+                "test입니다.": {
+                    "url": "",
                     "complite": false
                 },
-                {
-                    "name": "test2입니다.",
+                "test2입니다.": {
+                    "url": "",
                     "complite": false
                 }
-            ]
+            }
         },
         "테스트퀴즈": {
-            "1": [
-                {
-                    "name": "test1-1",
+            "1": {
+                "test1-1": {
+                    "url": "",
                     "complite": false
                 },
-                {
-                    "name": "test1-2",
+                "test1-2": {
+                    "url": "",
                     "complite": false
                 }
-            ],
-            "2": [
-                {
-                    "name": "test2-1",
+            },
+            "2": {
+                "test2-1": {
+                    "url": "",
                     "complite": false
                 },
-                {
-                    "name": "test2-2",
+                "test2-2": {
+                    "url": "",
                     "complite": false
                 }
-            ]
+            }
         }
     }
 ]
