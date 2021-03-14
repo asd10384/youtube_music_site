@@ -1,45 +1,45 @@
 [
     {
         "노래퀴즈": {
-            "1": {
+            "테스트1": {
                 "K-POP": {
-                    "url": "https://ytms.netlify.app/musicquiz/1/kpop.html",
+                    "url": "https://ytms.netlify.app/musicquiz/test1/kpop.html",
                     "complite": true
                 },
                 "J-POP": {
-                    "url": "https://ytms.netlify.app/musicquiz/1/jpop.html",
+                    "url": "https://ytms.netlify.app/musicquiz/test1/jpop.html",
                     "complite": false
                 }
             },
-            "2": {
+            "테스트2": {
                 "test입니다.": {
-                    "url": "https://ytms.netlify.app/musicquiz/2/test1.html",
+                    "url": "https://ytms.netlify.app/musicquiz/test2/test1.html",
                     "complite": false
                 },
                 "test2입니다.": {
-                    "url": "https://ytms.netlify.app/musicquiz/2/test2.html",
+                    "url": "https://ytms.netlify.app/musicquiz/test2/test2.html",
                     "complite": false
                 }
             }
         },
         "테스트퀴즈": {
-            "1": {
+            "테스트1": {
                 "test1-1": {
-                    "url": "https://ytms.netlify.app/testquiz/",
+                    "url": "https://ytms.netlify.app/testquiz/test1/test1-1.html",
                     "complite": false
                 },
                 "test1-2": {
-                    "url": "https://ytms.netlify.app/testquiz/",
+                    "url": "https://ytms.netlify.app/testquiz/test1/test1-2.html",
                     "complite": false
                 }
             },
-            "2": {
+            "테스트2": {
                 "test2-1": {
-                    "url": "https://ytms.netlify.app/testquiz/",
+                    "url": "https://ytms.netlify.app/testquiz/test2/test2-1.html",
                     "complite": false
                 },
                 "test2-2": {
-                    "url": "https://ytms.netlify.app/testquiz/",
+                    "url": "https://ytms.netlify.app/testquiz/test2/test2-2.html",
                     "complite": false
                 }
             }
