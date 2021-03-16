@@ -1,7 +1,7 @@
 [
     {
         "한국노래": {
-            "K-POP": {
+            "K-POP-MIX": {
                 "MIX-A": {
                     "url": "https://ytms.netlify.app/musicquiz/MIX-A/Q-1.html",
                     "complite": true
