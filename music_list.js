@@ -1,8 +1,8 @@
 [
     {
-        "한국노래": {
-            "K-POP-MIX": {
-                "MIX-A": {
+        "K-POP-MIX": {
+            "MIX-A": {
+                "Q-1": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-1.html",
                     "complite": true
                 },
