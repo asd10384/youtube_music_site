@@ -7,7 +7,7 @@
                     "complite": true
                 },
                 "Q-2": {
-                    "url": "https://ytms.netlify.app/K-POP-MIX/MIX-B/Q-2.html",
+                    "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-2.html",
                     "complite": true
                 }
             },
