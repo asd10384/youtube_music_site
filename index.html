@@ -14,9 +14,29 @@
                 <a href="./index.html"><p>메인으로</p></a>
             </div>
         </div>
-        <div id="page">
+        <dipage"page">
         </div>
 
-        <script src="./test.js" type="text/javascript"></script>
+        <script>
+            $(`#page`).load(`./music_list.js`, function (txt, status) {
+                if (status == 'error') {
+                    $(`#page`).html(`<div class="link">
+                        <a><p>파일을 불러올수 없습니다.</p></a>
+                    </div>`);
+                } else {
+                    var music_list = eval(txt)[0];
+                    var text = '<div class="link">';
+                    for (i in music_list) {
+                        for (j in music_list[i]) {
+                            for (k in music_list[i][j]) {
+                                text += `<a href="./${i}/${j}/${k}.html">${i}/${j}/${k} - 완성 = ${music_list[i][j][k]['complite']}<p></p></a>`;
+                            }
+                        }
+                    }
+                    text += `</div>`;
+                    $(`#page`).html(text);
+                }
+            });
+        </script>
     </body>
 </html>
