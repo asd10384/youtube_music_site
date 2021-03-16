@@ -6,9 +6,9 @@
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-1.html",
                     "complite": true
                 },
-                "J-POP": {
-                    "url": "https://ytms.netlify.app/musicquiz/test1/jpop.html",
-                    "complite": false
+                "Q-2": {
+                    "url": "https://ytms.netlify.app/K-POP-MIX/MIX-B/Q-2.html",
+                    "complite": true
                 }
             },
             "테스트2": {
