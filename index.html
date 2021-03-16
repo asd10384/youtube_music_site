@@ -5,19 +5,28 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>유튜브음악-MAIN</title>
+        <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
     </head>
 
     <body>
-        <div class="page">
+        <div class="mainpage">
             <div class="link">
                 <a href="./index.html"><p>메인으로</p></a>
             </div>
-            <div class="link">
-                <a href="./html/kpop.html"><p>K-POP</p></a>
-            </div>
-            <div class="link">
-                <a href="./html/jpop.html"><p>J-POP</p></a>
-            </div>
         </div>
+        <div id="page">
+        </div>
+
+        <script type="text/javascript">
+            $(`#page`).load(`./`, function (txt, status) {
+                if (status == 'error') {
+                    $(`#page`).html(`<div id="link">
+                        <a><p>오류가 발생했습니다.</p></a>
+                    </div>`);
+                } else {
+                    console.log(txt);
+                }
+            })
+        </script>
     </body>
 </html>
