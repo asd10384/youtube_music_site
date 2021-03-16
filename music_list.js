@@ -1,9 +1,9 @@
 [
     {
-        "노래퀴즈": {
-            "테스트1": {
-                "K-POP": {
-                    "url": "https://ytms.netlify.app/musicquiz/test1/kpop.html",
+        "한국노래": {
+            "K-POP": {
+                "MIX-A": {
+                    "url": "https://ytms.netlify.app/musicquiz/MIX A/Q-1.html",
                     "complite": true
                 },
                 "J-POP": {
