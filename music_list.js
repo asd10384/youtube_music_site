@@ -12,7 +12,7 @@
                 }
             },
             "MIX-B": {
-                "Q-3.": {
+                "Q-3": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-B/Q-3.html",
                     "complite": true
                 },
