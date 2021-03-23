@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-    <html lang="ko">
+<html lang="ko">
     <head>
         <link rel="stylesheet" href="./style.css">
         <meta charset="UTF-8">
@@ -14,19 +14,33 @@
                 <a href="./index.html"><p>메인으로</p></a>
             </div>
         </div>
-        <div id="page">
-        </div>
+        <div id="page"></div>
 
-        <script type="text/javascript">
-            $(`#page`).load(`./`, function (txt, status) {
+        <script>
+            $(`#page`).load(`./music_list.js`, function (txt, status) {
                 if (status == 'error') {
-                    $(`#page`).html(`<div id="link">
-                        <a><p>오류가 발생했습니다.</p></a>
+                    $(`#page`).html(`<div class="link">
+                        <a><p>파일을 불러올수 없습니다.</p></a>
                     </div>`);
                 } else {
-                    console.log(txt);
+                    var music_list = eval(txt)[0];
+                    var text = '<div class="link">';
+                    for (i in music_list) {
+                        for (j in music_list[i]) {
+                            for (k in music_list[i][j]) {
+                                if (music_list[i][j][k]['complite']) {
+                                    var complite = '완성';
+                                } else {
+                                    var complite = '미완성';
+                                }
+                                text += `<a href="./${i}/${j}/${k}.html">${i}/${j}/${k} - ${complite}<p></p></a>`;
+                            }
+                        }
+                    }
+                    text += `</div>`;
+                    $(`#page`).html(text);
                 }
-            })
+            });
         </script>
     </body>
 </html>
