@@ -11,14 +11,14 @@
                     "complite": true
                 }
             },
-            "테스트2": {
-                "test입니다.": {
+            "MIX-B": {
+                "Q-3.": {
                     "url": "https://ytms.netlify.app/musicquiz/test2/test1.html",
-                    "complite": false
+                    "complite": true
                 },
-                "test2입니다.": {
+                "Q-4": {
                     "url": "https://ytms.netlify.app/musicquiz/test2/test2.html",
-                    "complite": false
+                    "complite": true
                 }
             }
         },
