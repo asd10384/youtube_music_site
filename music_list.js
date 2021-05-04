@@ -80,67 +80,67 @@
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-10.html",
                     "desc": "10번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-11": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-11.html",
                     "desc": "11번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-12": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-12.html",
                     "desc": "12번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-13": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-13.html",
                     "desc": "13번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-14": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-14.html",
                     "desc": "14번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-15": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-15.html",
                     "desc": "15번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-16": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-16.html",
                     "desc": "16번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-17": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-17.html",
                     "desc": "17번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-18": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-18.html",
                     "desc": "18번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-19": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-19.html",
                     "desc": "19번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 },
                 "Q-20": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-20.html",
                     "desc": "20번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": true
+                    "complite": false
                 }
             }
         },
