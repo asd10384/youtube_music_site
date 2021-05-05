@@ -5,7 +5,7 @@
 
     # html 파일수정 #
     html파일안에
-    <a class="link" href="../image/여기">사진보기</a></div><br />
+    <a class="link" href="/image/여기">사진보기</a></div><br />
     여기 부분을 이미지이름.확장자명 으로 바꾼다.
 
 */
