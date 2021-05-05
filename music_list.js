@@ -175,29 +175,11 @@
         "그림퀴즈": {
             "리그오브레전드": {
                 "캐릭터퀴즈-1": {
-                    "url": "https://ytms.netlify.app/리그오브레전드/캐릭터퀴즈.html",
+                    "url": "https://ytms.netlify.app/lol/캐릭터퀴즈-1.html",
                     "desc": "롤 캐릭터 사진을 보고\n캐릭터 맞추기",
                     "quiz": "그림퀴즈",
                     "complite": true
                 },
-                "Q-2": {
-                    "url": "https://ytms.netlify.app/POP-MIX/MIX-A/Q-2.html",
-                    "desc": "",
-                    "quiz": "",
-                    "complite": false
-                },
-                "Q-3": {
-                    "url": "https://ytms.netlify.app/POP-MIX/MIX-A/Q-3.html",
-                    "desc": "",
-                    "quiz": "",
-                    "complite": false
-                },
-                "Q-4": {
-                    "url": "https://ytms.netlify.app/POP-MIX/MIX-A/Q-4.html",
-                    "desc": "",
-                    "quiz": "",
-                    "complite": false
-                }
             }
         }
     }
