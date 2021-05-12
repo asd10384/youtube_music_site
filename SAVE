@@ -12,9 +12,7 @@
             <div><a class="name">Magic Shop</a> - <a class="vocal">방탄소년단</a> : <a class="link">https://youtu.be/38k5zr1e0HI</a></div><br />
             <div><a class="name">아무노래</a> - <a class="vocal">지코</a> : <a class="link">https://youtu.be/GOtF5_Ow0_Y</a></div><br />
             <div><a class="name">Meteor</a> - <a class="vocal">창모</a> : <a class="link">https://youtu.be/_50jtkDnObw</a></div><br />
-            <div><a class="name">에필로그</a> - <a class="vocal">아이유</a> : <a class="link">https://youtu.be/uAyZZLL3faY</a></div><br />
             <div><a class="name">달라달라</a> - <a class="vocal">ITZY</a> : <a class="link">https://youtu.be/miqQAzOXPBo</a></div><br />
-            <div><a class="name">있어줘요</a> - <a class="vocal">장덕철</a> : <a class="link">https://youtu.be/7NA1PyVB5x4</a></div><br />
             <div><a class="name">그남자 그여자</a> - <a class="vocal">바이브</a> : <a class="link">https://youtu.be/2RMs8I3LUd4</a></div><br />
             <div><a class="name">나에게로 떠나는 여행</a> - <a class="vocal">버즈</a> : <a class="link">https://youtu.be/fqdgHKMqUp0</a></div><br />
             <div><a class="name">남자를 몰라</a> - <a class="vocal">버즈</a> : <a class="link">https://youtu.be/rgms0zs6SZc</a></div><br />
@@ -35,13 +33,6 @@
             <div><a class="name">수퍼비와</a> - <a class="vocal">수퍼비</a> : <a class="link">https://youtu.be/d3oqjZUmvwQ</a></div><br />
             <div><a class="name">아낙네</a> - <a class="vocal">송민호</a> : <a class="link">https://youtu.be/Njvj38mvWnk</a></div><br />
             <div><a class="name">stay</a> - <a class="vocal">블랙핑크</a> : <a class="link">https://youtu.be/IoiaAA4vNaI</a></div><br />               
-            <div><a class="name">오늘 취하면</a> - <a class="vocal">수란</a> : <a class="link">https://youtu.be/MHmKx-QFIr4</a></div><br />
-            <div><a class="name">별이 빛나는 밤</a> - <a class="vocal">마마무</a> : <a class="link">https://youtu.be/hRR5qDwY_go</a></div><br />
-            <div><a class="name">don't touch me</a> - <a class="vocal">환불원정대</a> : <a class="link">https://youtu.be/-1MlDyihHgU</a></div><br />
-            <div><a class="name">심장이 없어</a> - <a class="vocal">에이트</a> : <a class="link">https://youtu.be/rrZ6qcQAmDM</a></div><br />
-            <div><a class="name">너에게 못했던 내 마지막 말은</a> - <a class="vocal">다비치</a> : <a class="link">https://youtu.be/Jov5h_DuED4</a></div><br />
-            <div><a class="name">into the i-land</a> - <a class="vocal">아이유</a> : <a class="link">https://youtu.be/LKAb8oUlkLQ</a></div><br />
-            <div><a class="name">빌었어</a> - <a class="vocal">창모</a> : <a class="link">https://youtu.be/M2qpnwmpipI</a></div><br />
             <div><a class="name">좋은 날</a> - <a class="vocal">아이유</a> : <a class="link">https://youtu.be/OIHlzvEKncQ</a></div><br />
             <div><a class="name">wind flower</a> - <a class="vocal">마마무</a> : <a class="link">https://youtu.be/B09fEHm48ZI</a></div><br />
             <div><a class="name">오리 날다</a> - <a class="vocal">체리필터</a> : <a class="link">https://youtu.be/FYjWDBEA76E</a></div><br />
@@ -62,11 +53,18 @@
             <div><a class="name">기억의 습작</a> - <a class="vocal">전람회</a> : <a class="link">https://youtu.be/mlCZ-JQoPcg</a></div><br />
             <div><a class="name">꽃길</a> - <a class="vocal">세정</a> : <a class="link">https://youtu.be/mlCZ-JQoPcg</a></div><br />
             <div><a class="name">술이 문제야</a> - <a class="vocal">장혜진,윤민수</a> : <a class="link">https://youtu.be/XKST3tDkTeU</a></div><br />
- 
+            <div><a class="name">솔직하게 말해서 나</a> - <a class="vocal">김나영</a> : <a class="link">https://youtu.be/LSuTlGfl1y8</a></div><br />
+            <div><a class="name">오늘 취하면</a> - <a class="vocal">수란</a> : <a class="link">https://youtu.be/MHmKx-QFIr4</a></div><br />
+            <div><a class="name">별이 빛나는 밤</a> - <a class="vocal">마마무</a> : <a class="link">https://youtu.be/hRR5qDwY_go</a></div><br />
+            <div><a class="name">don't touch me</a> - <a class="vocal">환불원정대</a> : <a class="link">https://youtu.be/-1MlDyihHgU</a></div><br />
+            <div><a class="name">심장이 없어</a> - <a class="vocal">에이트</a> : <a class="link">https://youtu.be/rrZ6qcQAmDM</a></div><br />
+            <div><a class="name">너에게 못했던 내 마지막 말은</a> - <a class="vocal">다비치</a> : <a class="link">https://youtu.be/Jov5h_DuED4</a></div><br />
+            <div><a class="name">into the i-land</a> - <a class="vocal">아이유</a> : <a class="link">https://youtu.be/LKAb8oUlkLQ</a></div><br />
+            <div><a class="name">빌었어</a> - <a class="vocal">창모</a> : <a class="link">https://youtu.be/M2qpnwmpipI</a></div><br />
             CUTLINE
 
-            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"> </a></div><br />
-            <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"> </a></div><br />
+            <div><a class="name">pop/stars</a> - <a class="vocal">K/DA</a> : <a class="link">https://youtu.be/UQBwlhAm6Yk</a></div><br />
+            <div><a class="name">more</a> - <a class="vocal"></a> : <a class="link">https://youtu.be/QTfK8bCHuvs</a></div><br />
             <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"> </a></div><br />
             <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"> </a></div><br />
             <div><a class="name"></a> - <a class="vocal"></a> : <a class="link"> </a></div><br />
