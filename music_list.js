@@ -99,8 +99,8 @@
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-11.html",
                     "desc": "11번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-12": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-12.html",
