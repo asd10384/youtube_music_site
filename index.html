@@ -28,12 +28,12 @@
                     for (i in music_list) {
                         for (j in music_list[i]) {
                             for (k in music_list[i][j]) {
-                                if (music_list[i][j][k]['complite']) {
+                                if (music_list[i][j][k]['start']) {
                                     var complite = '완성';
                                 } else {
                                     var complite = '미완성';
                                 }
-                                text += `<a href="${music_list[i][j][k]['url']}">${i}/${j}/${k} - ${complite}<p></p></a>`;
+                                text += `<a href="${music_list[i][j][k]['url']}">${i}/${j}/${k} - ${complite} (${music_list[i][j][k]['complite']}%)<p></p></a>`;
                             }
                         }
                     }
