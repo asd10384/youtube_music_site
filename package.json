@@ -2,10 +2,9 @@
   "name": "youtube_music_site",
   "version": "1.0.0",
   "description": "디스코드 봇을 위한 유튜브 노래 사이트 입니다.",
-  "main": "chack.js",
+  "main": "yt_list.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    ".": "node chack.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -18,9 +17,11 @@
   },
   "homepage": "https://github.com/asd10384/youtube_music_site#readme",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
+    "cheerio": "^1.0.0-rc.10",
     "fs": "0.0.1-security",
     "http": "0.0.1-security",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "ytdl-core": "^4.8.3",
+    "ytpl": "^2.2.1"
   }
 }
