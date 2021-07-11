@@ -106,8 +106,8 @@
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-12.html",
                     "desc": "12번 한국노래 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-13": {
                     "url": "https://ytms.netlify.app/K-POP-MIX/MIX-A/Q-13.html",
