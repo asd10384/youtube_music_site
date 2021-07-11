@@ -19,8 +19,8 @@
  * 예시로 automake.html 파일을 제작했습니다.
 */
 
-const FILE1 = 'K-POP-Mix/MIX-A/Q-1';
-const FILE2 = 'K-POP-Mix/MIX-A/Q-2';
+const FILE1 = 'K-POP-MIX/MIX-A/Q-2';
+const FILE2 = 'K-POP-MIX/MIX-A/Q-11';
 
 
 

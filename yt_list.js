@@ -19,8 +19,8 @@
  * 예시로 automake.html 파일을 제작했습니다.
  */
 
-const PLAYLIST = 'https://www.youtube.com/playlist?list=PLuOLej6ED8uMBSSHNu66Qvj13e2w1lZdf';
-const FILE = 'TEST';
+const PLAYLIST = 'https://music.youtube.com/playlist?list=PLIVKik_aqtgcXv7Mb5euhaBcpPN4M1Cof&feature=share';
+const FILE = 'DCM';
 
 
 
@@ -45,5 +45,5 @@ ytpl(LISTID, {
 });
 
 function make(name='', vocal='', link='') {
-    return `\n<div><a class="name">${name}</a> - <a class="vocal">${vocal}</a> : <a class="link">https://youtu.be/${link}</a></div><br />`;
+    return `\n            <div><a class="name">${name}</a> - <a class="vocal">${vocal}</a> : <a class="link">https://youtu.be/${link}</a></div><br />`;
 }
