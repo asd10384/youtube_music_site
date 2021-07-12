@@ -71,7 +71,7 @@ setTimeout(() => {
             for (i in file1_list) {
                 text = file1_list[i];
                 if (file2_list.includes(text)) {
-                    makefile(`중복발견 => 제목: ${text} , 1번파일: ${Number(i)+1}번 , 2번파일: ${Number(file2_list.indexOf(text))+1}`);
+                    makefile(`중복발견 => 제목: ${text} , "${FILE1}.html"파일: ${Number(i)+1}번 , "${FILE2}"파일: ${Number(file2_list.indexOf(text))+1}`);
                 }
             }
         });
