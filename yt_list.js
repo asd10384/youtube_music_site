@@ -19,8 +19,8 @@
  * 예시로 automake.html 파일을 제작했습니다.
  */
 
-const PLAYLIST = 'https://youtube.com/playlist?list=PLsKl40h_aKVxNJI6ffz2n4ui3FIzBrrWg';
-const FILE = 'FTSD';
+const PLAYLIST = 'https://youtube.com/playlist?list=PLsKl40h_aKVxn6m2LLShFMtTtsPKAi2C7';
+const FILE = 'POP QUIZ';
 
 
 
