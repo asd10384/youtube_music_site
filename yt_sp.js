@@ -15,8 +15,8 @@
  * node yt_sp.js 를 입력해 시작합니다.
 */
 
-const FILE1 = 'K-POP/MIX-A/Q-1';
-const FILE2 = '출력';
+const FILE1 = 'SAVE';
+const FILE2 = '출력2';
 
 
 
@@ -25,11 +25,11 @@ const fs = require('fs');
 var file1_list = [];
 var text = '';
 
-fs.readFileSync(`${FILE1}.html`, {encoding:'utf-8'}).replace(/\<a class\=\"name\"\>.*\<\/a\>/gi, (txt) => {
+fs.readFileSync(`${FILE1}`, {encoding:'utf-8'}).replace(/\<a class\=\"name\"\>.*\<\/a\>/gi, (txt) => {
     file1_list.push(txt);
 });
 console.log(`\n잠시뒤 "${FILE1}"을 셔플 합니다.\n`);
-fs.writeFileSync(`./${FILE2}.html`, `${FILE1}.html\n`, {encoding:'utf-8'});
+fs.writeFileSync(`./${FILE2}.html`, `${FILE1}\n`, {encoding:'utf-8'});
 setTimeout(() => {
     var rl = [];
     var cy = 0;
