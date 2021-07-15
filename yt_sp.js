@@ -15,8 +15,8 @@
  * node yt_sp.js 를 입력해 시작합니다.
 */
 
-const FILE1 = 'SAVE';
-const FILE2 = '출력2';
+const FILE1 = '출력.html';
+const FILE2 = '출력P';
 
 
 
@@ -50,5 +50,5 @@ setTimeout(() => {
 }, 2500);
 
 function makefile(text = '') {
-    fs.appendFileSync(`./${FILE2}.html`, `\n${text}`, {encoding:'utf-8'});
+    fs.appendFileSync(`./${FILE2}.html`, `\n<div>${text}</div>`, {encoding:'utf-8'});
 }
