@@ -110,6 +110,13 @@
                     "quiz": "음악퀴즈",
                     "complite": 100,
                     "start": true
+                },
+                "Q-3": {
+                    "url": "https://ytms.netlify.app/K-POP/MIX-B/Q-3.html",
+                    "desc": "3번 K-POP 입니다.",
+                    "quiz": "음악퀴즈",
+                    "complite": 100,
+                    "start": true
                 }
             }
         },
@@ -119,71 +126,71 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-1.html",
                     "desc": "1번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-2": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-2.html",
                     "desc": "2번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-3": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-3.html",
                     "desc": "3번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-4": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-4.html",
                     "desc": "4번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-5": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-5.html",
                     "desc": "5번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-6": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-6.html",
                     "desc": "6번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-7": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-7.html",
                     "desc": "7번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-8": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-8.html",
                     "desc": "8번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-9": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-9.html",
                     "desc": "9번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 },
                 "Q-10": {
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-10.html",
                     "desc": "10번 POP 입니다.",
                     "quiz": "음악퀴즈",
-                    "complite": 0,
-                    "start": false
+                    "complite": 100,
+                    "start": true
                 }
             }
         },
@@ -194,7 +201,7 @@
                     "desc": "롤 캐릭터 사진을 보고\n캐릭터 맞추기",
                     "quiz": "그림퀴즈",
                     "complite": 16,
-                    "start": true
+                    "start": false
                 },
             }
         }

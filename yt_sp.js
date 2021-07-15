@@ -15,7 +15,7 @@
  * node yt_sp.js 를 입력해 시작합니다.
 */
 
-const FILE1 = '출력.html';
+const FILE1 = '출력P.html';
 const FILE2 = '출력P';
 
 
