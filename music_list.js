@@ -184,13 +184,6 @@
                     "quiz": "음악퀴즈",
                     "complite": 100,
                     "start": true
-                },
-                "Q-10": {
-                    "url": "https://ytms.netlify.app/POP/MIX-A/Q-10.html",
-                    "desc": "10번 POP 입니다.",
-                    "quiz": "음악퀴즈",
-                    "complite": 100,
-                    "start": true
                 }
             }
         },
