@@ -11,6 +11,9 @@
     quiz 에 사용할수 있는 형식
     [ 음악퀴즈 , 그림퀴즈 ]
 
+    customimg 에 사용할수 있는 형식  # 이미지는 png 형식으로 (확장자만 바꿔도됨)
+    [ true, false ]
+
     complite 에 사용할수 있는 형식
     [ 숫자 ex: 100 ]
 
@@ -29,6 +32,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-1.html",
                     "desc": "1번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -36,6 +40,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-2.html",
                     "desc": "2번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -43,6 +48,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-3.html",
                     "desc": "3번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -50,6 +56,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-4.html",
                     "desc": "4번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -57,6 +64,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-5.html",
                     "desc": "5번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -64,6 +72,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-6.html",
                     "desc": "6번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -71,6 +80,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-7.html",
                     "desc": "7번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -78,6 +88,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-8.html",
                     "desc": "8번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -85,6 +96,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-9.html",
                     "desc": "9번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -92,6 +104,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-A/Q-10.html",
                     "desc": "10번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 }
@@ -101,6 +114,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-B/Q-1.html",
                     "desc": "1번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -108,6 +122,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-B/Q-2.html",
                     "desc": "2번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -115,6 +130,7 @@
                     "url": "https://ytms.netlify.app/K-POP/MIX-B/Q-3.html",
                     "desc": "3번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 }
@@ -126,6 +142,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-1.html",
                     "desc": "1번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -133,6 +150,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-2.html",
                     "desc": "2번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -140,6 +158,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-3.html",
                     "desc": "3번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -147,6 +166,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-4.html",
                     "desc": "4번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -154,6 +174,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-5.html",
                     "desc": "5번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -161,6 +182,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-6.html",
                     "desc": "6번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -168,6 +190,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-7.html",
                     "desc": "7번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -175,6 +198,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-8.html",
                     "desc": "8번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 },
@@ -182,6 +206,7 @@
                     "url": "https://ytms.netlify.app/POP/MIX-A/Q-9.html",
                     "desc": "9번 POP 입니다.",
                     "quiz": "음악퀴즈",
+                    "customimg": false,
                     "complite": 100,
                     "start": true
                 }
@@ -193,6 +218,7 @@
                     "url": "https://ytms.netlify.app/그림퀴즈/리그오브레전드/캐릭터퀴즈-1.html",
                     "desc": "롤 캐릭터 사진을 보고\n캐릭터 맞추기",
                     "quiz": "그림퀴즈",
+                    "customimg": false,
                     "complite": 16,
                     "start": false
                 },
