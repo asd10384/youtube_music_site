@@ -220,7 +220,7 @@
                     "quiz": "그림퀴즈",
                     "customimg": false,
                     "complite": 16,
-                    "start": false
+                    "start": true
                 },
             }
         }
