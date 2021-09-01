@@ -213,14 +213,14 @@
             }
         },
         "그림퀴즈": {
-            "리그오브레전드": {
-                "캐릭터퀴즈-1": {
-                    "url": "https://ytms.netlify.app/그림퀴즈/리그오브레전드/캐릭터퀴즈-1.html",
+            "LOL": {
+                "champion-1": {
+                    "url": "https://ytms.netlify.app/그림퀴즈/LOL/champion-1.html",
                     "desc": "롤 캐릭터 사진을 보고\n캐릭터 맞추기",
                     "quiz": "그림퀴즈",
                     "customimg": false,
                     "complite": 16,
-                    "start": false
+                    "start": true
                 },
             }
         }
