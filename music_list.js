@@ -223,6 +223,18 @@
                     "start": true
                 },
             }
+        },
+        "기타": {
+            "게임BGM|OST": {
+                "Q-1": {
+                    "url": "https://ytms.netlify.app/기타/게임BGM,OST/Q-1html",
+                    "desc": "노래를 듣고 게임 제목을 맞춰주세요.",
+                    "quiz": "음악퀴즈",
+                    "customimg": false,
+                    "complite": 0,
+                    "start": false
+                },
+            }
         }
     }
 ]
