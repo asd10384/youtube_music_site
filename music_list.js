@@ -14,6 +14,9 @@
     customimg 에 사용할수 있는 형식  # 이미지는 png 형식으로 (확장자만 바꿔도됨)
     [ true, false ]
 
+    space 에 사용할수 있는 형식 # 정답 띄어쓰기 활성화|비활성화
+    [ true, false ]
+
     complite 에 사용할수 있는 형식
     [ 숫자 ex: 100 ]
 
@@ -33,6 +36,7 @@
                     "desc": "1번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -41,6 +45,7 @@
                     "desc": "2번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -49,6 +54,7 @@
                     "desc": "3번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -57,6 +63,7 @@
                     "desc": "4번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -65,6 +72,7 @@
                     "desc": "5번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -73,6 +81,7 @@
                     "desc": "6번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -81,6 +90,7 @@
                     "desc": "7번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -89,6 +99,7 @@
                     "desc": "8번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -97,6 +108,7 @@
                     "desc": "9번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -105,6 +117,7 @@
                     "desc": "10번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 }
@@ -115,6 +128,7 @@
                     "desc": "1번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -123,6 +137,7 @@
                     "desc": "2번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -131,6 +146,7 @@
                     "desc": "3번 K-POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 }
@@ -143,6 +159,7 @@
                     "desc": "1번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -151,6 +168,7 @@
                     "desc": "2번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -159,6 +177,7 @@
                     "desc": "3번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -167,6 +186,7 @@
                     "desc": "4번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -175,6 +195,7 @@
                     "desc": "5번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -183,6 +204,7 @@
                     "desc": "6번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -191,6 +213,7 @@
                     "desc": "7번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -199,6 +222,7 @@
                     "desc": "8번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 },
@@ -207,6 +231,7 @@
                     "desc": "9번 POP 입니다.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 100,
                     "start": true
                 }
@@ -219,6 +244,7 @@
                     "desc": "롤 캐릭터 사진을 보고\n캐릭터 맞추기",
                     "quiz": "그림퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 16,
                     "start": true
                 },
@@ -231,6 +257,7 @@
                     "desc": "노래를 듣고 게임 제목을 맞춰주세요.",
                     "quiz": "음악퀴즈",
                     "customimg": false,
+                    "space": true,
                     "complite": 0,
                     "start": false
                 },
