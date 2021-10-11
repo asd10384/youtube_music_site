@@ -19,7 +19,7 @@
  * 예시로 automake.html 파일을 제작했습니다.
  */
 
-const PLAYLIST = 'https://youtube.com/playlist?list=PLuOLej6ED8uPVwK7mCg8kBtLgkZA_1bxJ';
+const PLAYLIST = 'https://youtube.com/playlist?list=PLuOLej6ED8uNuEquxBXLtGKjVER8Nf7Ff';
 const FILE = '추가';
 
 
