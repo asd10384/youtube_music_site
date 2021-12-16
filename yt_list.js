@@ -31,19 +31,19 @@ const LISTID = PLAYLIST.match(/list=.*/g, '')[0].replace(/list=|\&.*/g,'');
 var item;
 
 ytpl(LISTID, {
-    limit: 10000
+  limit: 10000
 }).catch(() => {
-    return console.log('플레이리스트를 확인할수 없습니다.');
+  return console.log('플레이리스트를 확인할수 없습니다.');
 }).then((list) => {
-    fs.writeFileSync(`./${FILE}.html`, `${list.url}\n${list.title} - ${list.estimatedItemCount}개\n`, {encoding:'utf-8'});
-    console.log(`\n${list.title} - ${list.estimatedItemCount}개\n`);
-    for (i in list.items) {
-        item = list.items[i];
-        fs.appendFileSync(`./${FILE}.html`, make(item.title, item.author.name, item.id), {encoding:'utf-8'});
-        console.log(`${Number(i)+1}. ${item.title} - ${item.author.name}`);
-    }
+  fs.writeFileSync(`./${FILE}.html`, `${list.url}\n${list.title} - ${list.estimatedItemCount}개\n`, {encoding:'utf-8'});
+  console.log(`\n${list.title} - ${list.estimatedItemCount}개\n`);
+  for (i in list.items) {
+    item = list.items[i];
+    fs.appendFileSync(`./${FILE}.html`, make(item.title, item.author.name, item.id), {encoding:'utf-8'});
+    console.log(`${Number(i)+1}. ${item.title} - ${item.author.name}`);
+  }
 });
 
 function make(name='', vocal='', link='') {
-    return `\n            <div><a class="name">${name}</a><a class="alia">['']</a> - <a class="vocal">${vocal}</a> : <a class="link">https://youtu.be/${link}</a></div><br />`;
+  return `\n      <div><a class="name">${name}</a><a class="alia">['']</a> - <a class="vocal">${vocal}</a> : <a class="link">https://youtu.be/${link}</a></div><br />`;
 }

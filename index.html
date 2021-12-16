@@ -1,46 +1,46 @@
 <!DOCTYPE html>
 <html lang="ko">
-    <head>
-        <link rel="stylesheet" href="./style.css">
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>유튜브음악-MAIN</title>
-        <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
-    </head>
+  <head>
+    <link rel="stylesheet" href="./style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>유튜브음악-MAIN</title>
+    <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+  </head>
 
-    <body>
-        <div class="mainpage">
-            <div class="link">
-                <a href="./index.html"><p>메인으로</p></a>
-            </div>
-        </div>
-        <div id="page"></div>
+  <body>
+    <div class="mainpage">
+      <div class="link">
+        <a href="./index.html"><p>메인으로</p></a>
+      </div>
+    </div>
+    <div id="page"></div>
 
-        <script>
-            $(`#page`).load(`./music_list.js`, function (txt, status) {
-                if (status == 'error') {
-                    $(`#page`).html(`<div class="link">
-                        <a><p>파일을 불러올수 없습니다.</p></a>
-                    </div>`);
+    <script>
+      $(`#page`).load(`./music_list.js`, function (txt, status) {
+        if (status == 'error') {
+          $(`#page`).html(`<div class="link">
+            <a><p>파일을 불러올수 없습니다.</p></a>
+          </div>`);
+        } else {
+          var music_list = eval(txt)[0];
+          var text = '<div class="link">';
+          for (i in music_list) {
+            for (j in music_list[i]) {
+              for (k in music_list[i][j]) {
+                if (music_list[i][j][k]['start']) {
+                  var complite = '완성';
                 } else {
-                    var music_list = eval(txt)[0];
-                    var text = '<div class="link">';
-                    for (i in music_list) {
-                        for (j in music_list[i]) {
-                            for (k in music_list[i][j]) {
-                                if (music_list[i][j][k]['start']) {
-                                    var complite = '완성';
-                                } else {
-                                    var complite = '미완성';
-                                }
-                                text += `<a href="${music_list[i][j][k]['url']}">${i}/${j}/${k} - ${complite} (${music_list[i][j][k]['complite']}%)<p></p></a>`;
-                            }
-                        }
-                    }
-                    text += `</div>`;
-                    $(`#page`).html(text);
+                  var complite = '미완성';
                 }
-            });
-        </script>
-    </body>
+                text += `<a href="${music_list[i][j][k]['url']}">${i}/${j}/${k} - ${complite} (${music_list[i][j][k]['complite']}%)<p></p></a>`;
+              }
+            }
+          }
+          text += `</div>`;
+          $(`#page`).html(text);
+        }
+      });
+    </script>
+  </body>
 </html>

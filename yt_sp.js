@@ -26,29 +26,29 @@ var file1_list = [];
 var text = '';
 
 fs.readFileSync(`${FILE1}`, {encoding:'utf-8'}).replace(/\<a class\=\"name\"\>.*\<\/a\>/gi, (txt) => {
-    file1_list.push(txt);
+  file1_list.push(txt);
 });
 console.log(`\n잠시뒤 "${FILE1}"을 셔플 합니다.\n`);
 fs.writeFileSync(`./${FILE2}.html`, `${FILE1}\n`, {encoding:'utf-8'});
 setTimeout(() => {
-    var rl = [];
-    var cy = 0;
-    for (i=0; i<file1_list.length; i++) {
-        var r = Math.floor(Math.random() * file1_list.length);
-        if (rl.includes(r)) {
-            i--;
-            cy++;
-            continue;
-        } else {
-            rl.push(r);
-            cy = 0;
-            console.log(`원본번호: ${Number(i)+1} -> 바뀐번호: ${Number(r)+1}`);
-            makefile(file1_list[r]);
-        }
+  var rl = [];
+  var cy = 0;
+  for (i=0; i<file1_list.length; i++) {
+    var r = Math.floor(Math.random() * file1_list.length);
+    if (rl.includes(r)) {
+      i--;
+      cy++;
+      continue;
+    } else {
+      rl.push(r);
+      cy = 0;
+      console.log(`원본번호: ${Number(i)+1} -> 바뀐번호: ${Number(r)+1}`);
+      makefile(file1_list[r]);
     }
-    console.log(`셔플 끝`);
+  }
+  console.log(`셔플 끝`);
 }, 2500);
 
 function makefile(text = '') {
-    fs.appendFileSync(`./${FILE2}.html`, `\n<div>${text}</div>`, {encoding:'utf-8'});
+  fs.appendFileSync(`./${FILE2}.html`, `\n<div>${text}</div>`, {encoding:'utf-8'});
 }
