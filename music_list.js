@@ -149,6 +149,15 @@
           "space": true,
           "complite": 100,
           "start": true
+        },
+        "Q-4": {
+          "url": "https://ytms.netlify.app/K-POP/MIX-B/Q-4.html",
+          "desc": "4번 K-POP 입니다.",
+          "quiz": "음악퀴즈",
+          "customimg": false,
+          "space": true,
+          "complite": 10,
+          "start": true
         }
       }
     },
