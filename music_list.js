@@ -237,19 +237,6 @@
         }
       }
     },
-    "그림퀴즈": {
-      "LOL": {
-        "champion-1": {
-          "url": "https://ytms.netlify.app/그림퀴즈/LOL/champion-1.html",
-          "desc": "롤 캐릭터 사진을 보고\n캐릭터 맞추기",
-          "quiz": "그림퀴즈",
-          "customimg": false,
-          "space": true,
-          "complite": 16,
-          "start": true
-        },
-      }
-    },
     "기타": {
       "게임BGM|OST": {
         "Q-1": {
