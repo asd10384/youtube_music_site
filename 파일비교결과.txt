@@ -1,5 +1,5 @@
 
-잠시뒤 "POP/MIX-A/Q-10"과 총 30개의 파일을 비교합니다.
+잠시뒤 "TEST"과 총 30개의 파일을 비교합니다.
 
 K-POP/MIX-A/Q-1.html파일과 비교 하는중
 K-POP/MIX-A/Q-1.html파일과 비교 끝
@@ -44,7 +44,6 @@ K-POP/MIX-B/Q-9.html파일과 비교 끝
 POP/MIX-A/Q-1.html파일과 비교 하는중
 POP/MIX-A/Q-1.html파일과 비교 끝
 POP/MIX-A/Q-2.html파일과 비교 하는중
-중복발견 => 제목: Don't Let Me Down , "POP/MIX-A/Q-10.html"파일: 29번 , "POP/MIX-A/Q-2.html"파일: 50
 POP/MIX-A/Q-2.html파일과 비교 끝
 POP/MIX-A/Q-3.html파일과 비교 하는중
 POP/MIX-A/Q-3.html파일과 비교 끝
@@ -57,11 +56,46 @@ POP/MIX-A/Q-6.html파일과 비교 끝
 POP/MIX-A/Q-7.html파일과 비교 하는중
 POP/MIX-A/Q-7.html파일과 비교 끝
 POP/MIX-A/Q-8.html파일과 비교 하는중
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
+중복발견 => 제목: Attention</a><a class="alia">[''] , "TEST.html"파일: 8번 , "POP/MIX-A/Q-8.html"파일: 16
 POP/MIX-A/Q-8.html파일과 비교 끝
 POP/MIX-A/Q-9.html파일과 비교 하는중
 POP/MIX-A/Q-9.html파일과 비교 끝
-그림퀴즈/리그오브레전드/캐릭터퀴즈-1.html파일과 비교 하는중
-그림퀴즈/리그오브레전드/캐릭터퀴즈-1.html파일과 비교 끝
+기타/게임BGM,OST/Q-1.html파일과 비교 하는중
+기타/게임BGM,OST/Q-1.html파일과 비교 끝
 
 비교 끝
 

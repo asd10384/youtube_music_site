@@ -15,8 +15,8 @@
  * node yt_sp.js 를 입력해 시작합니다.
 */
 
-const FILE1 = 'K-POP 추가예정';
-const FILE2 = 'K-POP 추가예정1';
+const FILE1 = 'TEST.html';
+const FILE2 = 'TEST S';
 
 
 
