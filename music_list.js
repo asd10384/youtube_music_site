@@ -246,6 +246,19 @@
         }
       }
     },
+    "J-POP": {
+      "MIX-A": {
+        "Q-1": {
+          "url": "https://ytms.netlify.app/J-POP/MIX-A/Q-1.html",
+          "desc": "1번 J-POP 입니다.",
+          "quiz": "음악퀴즈",
+          "customimg": false,
+          "space": true,
+          "complite": 100,
+          "start": true
+        }
+      }
+    },
     "기타": {
       "게임BGM|OST": {
         "Q-1": {
