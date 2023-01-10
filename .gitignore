@@ -4,6 +4,8 @@ package-lock.json
 
 json.sqlite
 
+old/
+
 # 파일 이름으로 제외
 # 파일명.파일확장자
 # 

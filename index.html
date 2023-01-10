@@ -17,7 +17,7 @@
     <div id="page"></div>
 
     <script>
-      $(`#page`).load(`./music_list.js`, function (txt, status) {
+      $(`#page`).load(`./music/music_list.js`, function (txt, status) {
         if (status == 'error') {
           $(`#page`).html(`<div class="link">
             <a><p>파일을 불러올수 없습니다.</p></a>
@@ -26,16 +26,12 @@
           var music_list = eval(txt)[0];
           var text = '<div class="link">';
           for (i in music_list) {
-            for (j in music_list[i]) {
-              for (k in music_list[i][j]) {
-                if (music_list[i][j][k]['start']) {
-                  var complite = '완성';
-                } else {
-                  var complite = '미완성';
-                }
-                text += `<a href="${music_list[i][j][k]['url']}">${i}/${j}/${k} - ${complite} (${music_list[i][j][k]['complite']}%)<p></p></a>`;
-              }
+            if (music_list[i]['start']) {
+              var complite = '완성';
+            } else {
+              var complite = '미완성';
             }
+            text += `<a href="./music/${i}.html">${i} - ${complite} (${music_list[i]['complite']}%)<p></p></a>`;
           }
           text += `</div>`;
           $(`#page`).html(text);
